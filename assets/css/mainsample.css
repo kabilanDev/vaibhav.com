@@ -1,0 +1,42 @@
+/* Background color for the body */
+body {
+  background-color: #f8f9fa; /* Light beige background */
+  color: #333; /* Default text color */
+}
+
+/* Header background and text color */
+header {
+  background-color: #ff9933; /* Saffron background */
+  color: white; /* White text color */
+}
+
+/* Main header text color */
+h1.mainheader {
+  color: #800000; /* Deep maroon text color */
+}
+
+/* Link color */
+a {
+  color: #ffcc00; /* Gold link color */
+}
+
+a:hover {
+  color: #b38f00; /* Darker gold on hover */
+}
+
+/* Button background and text color */
+button, .btn {
+  background-color: #ffcc00; /* Gold background */
+  color: white; /* White text */
+  border: none;
+}
+
+button:hover, .btn:hover {
+  background-color: #b38f00; /* Darker gold on hover */
+}
+
+/* Footer background and text color */
+footer {
+  background-color: #800000; /* Deep maroon background */
+  color: white; /* White text color */
+}
